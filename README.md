@@ -16,12 +16,15 @@ This repository demonstrates the **framework only**—no proprietary or personal
 This repository publishes a **public reference specification** for Forge Continuity Architecture.
 
 The material presented here reflects an **early architectural snapshot** intended to communicate principles and structure only.  
-Internal Forge systems have evolved beyond this reference and are not mirrored here.
+Active Forge development is ongoing and may diverge from the structures demonstrated here.
 
-This specification exists to:
+Accordingly, this specification should be treated as a **foundational reference**, not a live or complete implementation.
+
+This public spec exists to:
+- document core design principles
 - establish public prior art
-- describe a deterministic continuity approach
-- provide a conceptual and structural baseline for independent implementations
+- illustrate structural patterns for deterministic continuity
+- provide a stable reference point for discussion and experimentation
 
 This repository does **not** represent:
 - the current internal Forge system
@@ -29,23 +32,8 @@ This repository does **not** represent:
 - an endorsement of any specific implementation
 - a substitute for independent testing or judgment
 
-Readers are encouraged to adapt ideas thoughtfully and responsibly within their own constraints.
-
----
-## 🚦 Status & Evolution
-
-This repository represents a **public architectural snapshot** of Forge Continuity concepts.
-
-Active Forge development is ongoing and may diverge from the structures demonstrated here.  
-Accordingly, this specification should be treated as a **foundational reference**, not a live or complete implementation.
-
-The purpose of this public spec is to:
-- document core design principles
-- establish public prior art
-- illustrate structural patterns for deterministic continuity
-- provide a stable reference point for discussion and experimentation
-
 Evolution, refinement, and alternative implementations are expected.
+
 
 ---
 
@@ -104,6 +92,7 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
