@@ -13,24 +13,23 @@ This repository demonstrates the **framework only**—no proprietary or personal
 
 ## 🚦 Status & Scope
 
-This repository represents a **public architectural snapshot** of Forge Continuity concepts.
+This repository publishes a **public reference specification** for Forge Continuity Architecture.
 
-Active development of Forge has continued beyond the structures demonstrated here.  
-Accordingly, this specification should be understood as a **foundational reference**, not a live or complete implementation.
+The material presented here reflects an **early architectural snapshot** intended to communicate principles and structure only.  
+Internal Forge systems have evolved beyond this reference and are not mirrored here.
 
-The purpose of this public spec is to:
-- document core **design principles**
-- establish **prior art**
-- illustrate **structural patterns** for deterministic continuity
-- provide a stable reference point for discussion and experimentation
+This specification exists to:
+- establish public prior art
+- describe a deterministic continuity approach
+- provide a conceptual and structural baseline for independent implementations
 
-It is **not** intended to:
-- reflect the current internal Forge system in full
-- serve as a production-ready framework
-- include private, personal, or operational packets
-- define a finalized or frozen architecture
+This repository does **not** represent:
+- the current internal Forge system
+- a complete operational design
+- an endorsement of any specific implementation
+- a substitute for independent testing or judgment
 
-Evolution, refinement, and alternative implementations are expected and encouraged.
+Readers are encouraged to adapt ideas thoughtfully and responsibly within their own constraints.
 
 ---
 
@@ -89,4 +88,5 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
