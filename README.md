@@ -5,7 +5,7 @@
 
 ## 📜 Overview
 **Forge Continuity Architecture** is an open-spec method for maintaining long-term continuity in large-language-model and creative-AI systems.  
-Rather than relying on opaque memory databases, Forge uses **human-readable packets** and a deterministic **boot process** to reconstruct an AI’s identity, context, and knowledge state.
+Rather than relying on opaque memory databases, Forge uses **human-readable packets** and a deterministic **boot process** to reconstruct an AI’s configured role, context, and knowledge state.
 
 This repository demonstrates the **framework only**—no proprietary or personal data from private Forge packets is included.
 
@@ -92,6 +92,7 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
