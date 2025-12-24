@@ -70,6 +70,7 @@ Forge_Continuity_Architecture_Public_Spec/
 2. **Define a boot specification** (`FORGE_BOOT.yaml`) listing what to load and in what order.  
 3. **Run intake**—the model reads the packet and reconstructs context deterministically.  
 4. **Version each packet** (v1.0 → v3.0 → etc.) to maintain chronological continuity.  
+5. **Validate continuity** through manual review or automated checks as appropriate.
 
 ---
 ## 💬 Community Discussion
@@ -103,6 +104,7 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
