@@ -72,6 +72,17 @@ Forge_Continuity_Architecture_Public_Spec/
 4. **Version each packet** (v1.0 → v3.0 → etc.) to maintain chronological continuity.  
 
 ---
+## 💬 Community Discussion
+
+A reference discussion of this public specification is available on the OpenAI Developer Community forum:
+
+- OpenAI Community: https://community.openai.com/t/long-horizon-ai-work-a-public-reference-architecture-for-continuity-without-personas/1370143
+
+This thread is provided for context and historical reference only.  
+The GitHub repository remains the authoritative public reference for this specification.
+The forum post may be auto-closed and is not guaranteed to remain interactive.
+
+---
 
 ## 🔓 License
 **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**  
@@ -92,6 +103,7 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
