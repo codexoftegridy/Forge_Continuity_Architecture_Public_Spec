@@ -32,6 +32,22 @@ This repository does **not** represent:
 Readers are encouraged to adapt ideas thoughtfully and responsibly within their own constraints.
 
 ---
+## 🚦 Status & Evolution
+
+This repository represents a **public architectural snapshot** of Forge Continuity concepts.
+
+Active Forge development is ongoing and may diverge from the structures demonstrated here.  
+Accordingly, this specification should be treated as a **foundational reference**, not a live or complete implementation.
+
+The purpose of this public spec is to:
+- document core design principles
+- establish public prior art
+- illustrate structural patterns for deterministic continuity
+- provide a stable reference point for discussion and experimentation
+
+Evolution, refinement, and alternative implementations are expected.
+
+---
 
 ## ⚙️ Core Concepts
 
@@ -88,5 +104,6 @@ Any subsequent patent claim on the same concept would conflict with this disclos
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
