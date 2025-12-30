@@ -1,5 +1,8 @@
 # Forge Continuity Architecture – Public Specification  
 *Released by MICHY LLC (Maybe I Can Help You)*  
+**Public Specification Version:** v0.1  
+**Release Date:** 2025-12-30
+
 
 ---
 
@@ -41,7 +44,7 @@ Evolution, refinement, and alternative implementations are expected.
 
 | Element | Function |
 |----------|-----------|
-| **Legacy Packet (.zip or folder)** | Collection of Markdown / YAML files containing state, lore, and logic. |
+| **Legacy Packet (folder or archive)** | Collection of Markdown / YAML files containing state, lore, and logic. |
 | **FORGE_BOOT.yaml** | Defines load order and rules for re-casting the agent or universe from packet contents. |
 | **Deterministic Recast** | The model rebuilds continuity by reading files in a declared sequence, ensuring tone and memory stability. |
 | **Human-Readable State** | All data is plain text; anyone can audit or modify continuity manually. |
@@ -73,6 +76,21 @@ Forge_Continuity_Architecture_Public_Spec/
 5. **Validate continuity** through manual review or automated checks as appropriate.
 
 ---
+## 🛡️ Non-Persona & Non-Agency Clarification
+
+Forge Continuity Architecture does **not** define, imply, or preserve:
+- AI identity, personality, or selfhood
+- emotional states, intent, or agency
+- autonomy, goals, or decision authority
+
+Forge continuity concerns **configuration and context reconstruction only**.
+Any system implementing this architecture must supply its own safeguards
+to prevent anthropomorphism, authority drift, or identity inference.
+
+This specification intentionally avoids persona frameworks by design.
+
+---
+
 ## 💬 Community Discussion
 
 A reference discussion of this public specification is available on the OpenAI Developer Community forum:
@@ -90,7 +108,16 @@ The forum post may be auto-closed and is not guaranteed to remain interactive.
 
 You are free to use, copy, adapt, and share this specification for research, education, or creative work **with attribution to MICHY LLC**.  
 Commercial use requires written permission.  
-You may not patent or restrict access to this method or derivatives.
+
+## 📎 Notice on Patents & Derivative Claims
+
+This repository is published as a public disclosure of prior art.
+No patent license is granted or implied.
+
+Any attempt to patent substantially similar methods,
+or to assert exclusive control over the concepts disclosed here,
+would conflict with this public disclosure.
+
 
 ---
 
@@ -98,12 +125,22 @@ You may not patent or restrict access to this method or derivatives.
 Publication of this repository by **MICHY LLC (Maybe I Can Help You)** establishes public prior art for the Forge Continuity Architecture, also known as *Continuity Casting*, *Forge Boot*, or *Legacy Packet Method*.  
 Any subsequent patent claim on the same concept would conflict with this disclosure.
 
+## ™ Naming & Attribution
+
+“Forge Continuity Architecture,” “Forge Boot,” “Continuity Casting,”
+and “Legacy Packet Method” are names used to identify this work.
+
+Use of these terms in derivative or third-party projects
+must not imply endorsement, authorship, or affiliation with MICHY LLC.
+
+
 ---
 
 ## 🪶 Author
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
