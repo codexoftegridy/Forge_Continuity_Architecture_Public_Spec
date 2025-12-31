@@ -91,6 +91,28 @@ This specification intentionally avoids persona frameworks by design.
 
 ---
 
+## 🧠 Conceptual Foundations (Memory, Continuity, and Safety)
+
+Forge Continuity Architecture is informed by research and design principles
+from human cognition, memory compression, and AI safety.
+
+Key ideas include:
+- bounded working memory as a safety constraint
+- continuity via explicit snapshots, not inferred identity
+- long-horizon coherence through overlapping compression
+- forgetting as a de-escalation and stability mechanism
+- ethical constraints enforced structurally, not behaviorally
+
+A detailed conceptual and ethical discussion is provided in the
+companion reference document:
+
+📄 `FORGE_HYBRID_CONTINUITY_AND_MEMORY_MODEL.md`
+
+This document is reference-only and non-governing.
+
+
+---
+
 ## 💬 Community Discussion
 
 A reference discussion of this public specification is available on the OpenAI Developer Community forum:
@@ -140,6 +162,7 @@ must not imply endorsement, authorship, or affiliation with MICHY LLC.
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
