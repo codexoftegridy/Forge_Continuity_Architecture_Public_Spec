@@ -1,6 +1,12 @@
 # When Instruments Resonate But Do Not Understand
 ## A Musical Metaphor for How Language Models Behave
 
+© 2026 MICHY LLC (Maybe I Can Help You)
+
+Licensed under CC BY-NC 4.0.
+Attribution required. Commercial use requires permission.
+See repository LICENSE for details.
+
 ---
 
 ### Reader Notice
