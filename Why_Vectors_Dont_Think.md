@@ -3,6 +3,8 @@
 Title:  Why Vectors Don’t Think
 Sub Title: A Mechanical Account of How Language Models Process Input 
 
+For an intuitive, non-mechanistic metaphor version, see When_Instruments_Resonate_But_Do_Not_Understand.md
+
 © 2026 MICHY LLC (Maybe I Can Help You)
 
 Licensed under CC BY-NC 4.0.
@@ -815,5 +817,6 @@ They produce output.
 They do not understand what they produce.
 
 Recognizing this distinction restores proper boundaries between human judgment and machine processing—and allows language models to be used for what they are, not what metaphor suggests they might be.
+
 
 
