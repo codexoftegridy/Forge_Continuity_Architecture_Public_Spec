@@ -3,6 +3,13 @@
 Title:  Why Vectors Don’t Think
 Sub Title: A Mechanical Account of How Language Models Process Input 
 
+© 2026 MICHY LLC (Maybe I Can Help You)
+
+Licensed under CC BY-NC 4.0.
+Attribution required. Commercial use requires permission.
+See repository LICENSE for details.
+
+
 This document is written for programmers, engineers, technically literate readers, and policymakers who are familiar with software abstractions but confused by current public explanations of AI systems. They do not interpret, understand, or reason—humans do.
 
 Language models are complex software systems that process numbers according to fixed rules.
