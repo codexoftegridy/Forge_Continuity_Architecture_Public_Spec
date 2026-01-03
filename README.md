@@ -13,6 +13,11 @@ Rather than relying on opaque memory databases, Forge uses **human-readable pack
 This repository demonstrates the **framework only**—no proprietary or personal data from private Forge packets is included.
 
 ---
+## 📚 Companion Analyses
+- `Why_Vectors_Dont_Think.md` — Limits of vector-based cognition
+- `Why_AI_Is_Not_a_Moral_Agent.md` — Risk-weighted moral language and power asymmetry
+
+---
 
 ## 🚦 Status & Scope
 
@@ -190,6 +195,7 @@ must not imply endorsement, authorship, or affiliation with MICHY LLC.
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
