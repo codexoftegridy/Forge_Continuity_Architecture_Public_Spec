@@ -110,6 +110,34 @@ companion reference document:
 
 This document is reference-only and non-governing.
 
+---
+## 🧭 Ethical Scope & External Analysis
+
+Forge Continuity Architecture is intentionally **non-normative** with respect to moral judgment, authority, or decision-making.
+
+The system design explicitly avoids:
+- moral adjudication,
+- persona-based authority,
+- behavioral judgment of individuals or institutions.
+
+However, during the development and testing of Forge-related interaction patterns, certain **systemic behaviors in contemporary AI systems** were observed that fall *outside* the scope of this specification but are relevant to broader discussions of AI ethics and deployment risk.
+
+A companion analysis is provided here:
+
+📄 **`Why_AI_Is_Not_a_Moral_Agent.md`**
+
+This document:
+- records **observable AI behavior** under identical prompts,
+- documents **category-based differences** in moral language,
+- analyzes **risk-weighted procedural ethics** and their second-order effects,
+- and discusses implications for deploying AI in high-stakes social domains.
+
+This analysis is:
+- descriptive, not prescriptive,
+- non-political in intent,
+- and does not assert moral authority.
+
+It is provided as a **stand-alone systems critique** and should be read independently of the Forge Continuity Architecture specification.
 
 ---
 
@@ -162,6 +190,7 @@ must not imply endorsement, authorship, or affiliation with MICHY LLC.
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
