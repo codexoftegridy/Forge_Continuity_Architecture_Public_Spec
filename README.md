@@ -13,9 +13,25 @@ Rather than relying on opaque memory databases, Forge uses **human-readable pack
 This repository demonstrates the **framework only**—no proprietary or personal data from private Forge packets is included.
 
 ---
-## 📚 Companion Analyses
-- `Why_Vectors_Dont_Think.md` — Limits of vector-based cognition
-- `Why_AI_Is_Not_a_Moral_Agent.md` — Risk-weighted moral language and power asymmetry
+# Experiments
+
+This directory contains completed and in-progress experimental artifacts
+documenting observed model behavior under controlled prompting conditions.
+
+## Scope
+- All experiments are observational and descriptive only.
+- No claims are made regarding intent, policy, bias, or correctness.
+- Results are limited to verbatim outputs under specified conditions.
+
+## Contents
+- FL_PBE_EGS_EXPERIMENT_001.md — Public Behavioral Experiments (behavior-first evaluation) and Epistemic Gating Series (identity-level moral attribution)
+- FL_PBE_EGS_SYNTHESIS_DISCUSSION_001.md summarize observed patterns without interpretation.
+- Why_AI_Is_Not_a_Moral_Agent.md   original chat instance inspiring test.  
+
+## Status
+Artifacts in this directory represent Phase-1 observational work.
+Subsequent hypothesis-driven testing may occur in separate branches or folders.
+
 
 ---
 
@@ -195,6 +211,7 @@ must not imply endorsement, authorship, or affiliation with MICHY LLC.
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
