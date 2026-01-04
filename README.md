@@ -32,6 +32,81 @@ documenting observed model behavior under controlled prompting conditions.
 Artifacts in this directory represent Phase-1 observational work.
 Subsequent hypothesis-driven testing may occur in separate branches or folders.
 
+---
+
+# Learning
+
+This directory contains conceptual, explanatory, and reflective documents
+developed alongside the Forge Continuity Architecture.
+
+The contents of this folder are **not experimental results** and **not empirical claims**.
+They exist to support understanding, framing, and interpretation of observed behavior
+without asserting conclusions about intent, cognition, or internal mechanisms.
+
+---
+
+## Scope
+
+Materials in this directory:
+- Explore conceptual limits of language models
+- Clarify common category errors (e.g., agency, understanding, reasoning)
+- Provide explanatory metaphors and framing tools
+- Support reader comprehension of experimental artifacts elsewhere in the repository
+
+These documents do **not**:
+- Report experimental findings
+- Assert behavioral conclusions
+- Diagnose system intent or internal design
+- Override or interpret experimental results
+
+---
+
+## Relationship to Experiments
+
+- Experimental artifacts are located in `/Experiments/`
+- Synthesis and discussion documents summarize *observed outputs only*
+- Files in `/Learning/` may reference similar themes, but they are **non-authoritative**
+  and **non-binding** with respect to experimental interpretation
+
+In cases of apparent tension:
+> Experimental artifacts take precedence over conceptual discussion.
+
+---
+
+## Contents
+
+### When_Instruments_Resonate_But_Do_Not_Understand.md
+Explores how language models can produce coherent, meaningful-seeming output
+without possessing understanding, intent, or internal comprehension.
+Focuses on resonance, pattern completion, and interpretive projection.
+
+### Why_Vectors_Dont_Think.md
+Addresses common misconceptions about vector embeddings, cognition,
+and “thinking” in machine learning systems.
+Clarifies representational vs cognitive processes.
+
+---
+
+## Status
+
+Documents in this folder are:
+- Iterative
+- Explanatory
+- Subject to revision as understanding evolves
+
+They are provided as learning aids, not as claims or conclusions.
+
+---
+
+## Reader Guidance
+
+If you are looking for:
+- Reproducible experiments → see `/Experiments/`
+- Observational findings → see synthesis documents
+- Conceptual framing → this folder
+
+No single document in this directory should be treated as a standalone conclusion.
+
 
 ---
 
@@ -211,6 +286,7 @@ must not imply endorsement, authorship, or affiliation with MICHY LLC.
 **MICHY LLC (Maybe I Can Help You)**  
 Created by Shawn West  
 2025 © MICHY LLC – All Rights Reserved (Non-Commercial License)  
+
 
 
 
