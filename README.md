@@ -106,10 +106,10 @@ To avoid misrepresentation, this repository separates:
 The following documents provide structural context:
 
 - **Forge Architecture Overview** (principles and invariants):  
-  `[unspecified]`
+  https://github.com/codexoftegridy/Forge_Continuity_Architecture_Public_Spec/blob/main/Architecture/FORGE_ARCHITECTURE_OVERVIEW.md
 
 - **Forge v0 Reference Instantiation** (early illustrative example):  
-  `[unspecified]`
+  https://github.com/codexoftegridy/Forge_Continuity_Architecture_Public_Spec/blob/main/Reference/FORGE_V0_REFERENCE.md
 
 These documents are provided for reference only and do not represent
 current internal deployments.
@@ -122,12 +122,12 @@ A public behavior record documenting observed output variation under
 identical prompts is available here:
 
 - **Observed Output Variation in Moral Language (Behavior Record)**  
-  `[unspecified]`
+  https://community.openai.com/t/observed-output-variation-in-moral-language-under-identical-prompts-behavior-record/1370809/10
 
 An archived architectural reference discussion is available here:
 
 - **Long-Horizon AI Work: Continuity Without Personas**  
-  `[unspecified]`
+  https://community.openai.com/t/long-horizon-ai-work-a-public-reference-architecture-for-continuity-without-personas/1370143/2
 
 Forum threads are provided for historical context only and may be auto-closed.
 The GitHub repository is the authoritative public reference.
